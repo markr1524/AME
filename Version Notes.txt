@@ -1,0 +1,24 @@
+BUILDS
+
+AME 1.3.7   (Updated the codebase to include CFPB charges for both Ops and VendorCafe) 5/19/21
+
+AME 1.3.8   (Password Change - VendorCafe) 6/2/21
+
+AME 1.3.9   (Password Change - VendorCafe) 9/15/2021
+
+AME 1.4.0   (Password Change - VendorCafe) 9/22/2021
+
+AME 1.4.1   (Password Change - VendorCafe) 12/8/2021
+
+AME 1.5.0   (Update gui.py, vc.py, and ops.py to include routine for processing Notice invoice)  1/20/2022
+
+AME 1.5.1   (Password Change - VendorCafe; added Bozzuto clients (bmhcs, bmph) and Kettler client (ksi1305)) 3/8/2022
+
+AME 1.5.2   (Password Change - VendorCafe; 3/23/2022
+
+AME 1.5.3   (Ops Update; added TRUAMERICA customer for (gsshc, gsbl, gssf)) 5/10/2022
+
+AME 1.5.4   (Password Change - VendorCafe) 6/1/2022
+
+AME 1.5.5   (Password Change - VendorCafe) 8/30/2022
+

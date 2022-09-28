@@ -1,0 +1,2 @@
+Navigate to https://chromedriver.chromium.org/ for the latest stable release of the chromeweb driver and place it in this folder. You're chromedriver may become out of date,
+when the version of your browser is on a much later version.

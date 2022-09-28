@@ -1,0 +1,4 @@
+slate3k==0.5.3
+webdrivermanager==0.10.0
+selenium==3.141.0
+PyPDF2==1.26.0
